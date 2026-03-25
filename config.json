@@ -25,31 +25,31 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61588403646276",
-    "61585772322631",
-    "61576599896861"
+    "61578864616830",
+    "61577103244134",
+    "100027139059974"
   ],
   "developer": [
-    "61588403646276",
-    "61585772322631",
-    "61576599896861",
-    "61553004827618",
-    "100077764623961"
+    "61577103244134",
+    "61578864616830",
+    "100027139059974",
+    "",
+    ""
   ],
   "vipuser": [
-    "61588403646276",
-    "61585772322631",
-    "61576599896861"
+    "61578864616830",
+    "61577103244134",
+    "100027139059974"
   ],
   "premium": [
-    "61585772322631",
-    "61588403646276",
-    "61576599896861"
+    "61577103244134",
+    "61578864616830",
+    "100027139059974"
   ],
   "creator": [
-    "61585772322631",
-    "61588403646276",
-    "61576599896861"
+    "61577103244134",
+    "61578864616830",
+    "100027139059974"
   ],
   "reactBy": {
     "delete": [
@@ -79,11 +79,11 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "X69X BOT V3",
-  "prefix": ")",
+  "nickNameBot": "𝗕𝗔'𝗕𝗬 くめ",
+  "prefix": "!",
   "database": {
     "type": "mongodb",
-    "uriMongodb": "mongodb+srv://Hinata:W2fNh.H9iWFU22F@cluster0.cyattib.mongodb.net/OZADNOOB1?retryWrites=true&w=majority&appName=Cluster0",
+    "uriMongodb": "mongodb+srv://zoroxalpha570:zorooxalpha570@cluster0.amvbedx.mongodb.net/?appName=Cluster0",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
     "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
@@ -196,10 +196,10 @@
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   },
   "devUsers": [
-    "61588403646276",
-    "61585772322631",
-    "61576599896861",
-    "61553004827618",
-    "100077764623961"
+    "61577103244134",
+    "61578864616830",
+    "100027139059974",
+    "",
+    ""
   ]
 }
